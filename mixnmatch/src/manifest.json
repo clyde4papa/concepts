@@ -1,0 +1,14 @@
+{
+  "name": "fe-mix-n-match",
+  "short_name": "fe-mix-n-match",
+  "theme_color": "#488aff",
+  "background_color": "#488aff",
+  "scope": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/ngx-rocket-logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
